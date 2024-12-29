@@ -41,9 +41,9 @@ redirect_from:
 - ``WSDM 2023`` [Heterogeneous graph-based context-aware document ranking](https://dl.acm.org/doi/abs/10.1145/3539597.3570390), **Shuting Wang**, Zhicheng Dou, Yutao Zhu
 
 # Experiences
-- *2023.11 - 2024.10* Research Intern, Baichuan <img src="./images/baichuan.jpeg" style="height: 64px;">. 
-- *2022.12 - 2023.10* Research Intern, Baidu <img src="./images/baidu.jpg" style="height: 64px;">. 
-- *2021.7 - 2021.9*, Research Intern, Kuaishou <img src="./images/kuaishou.jpg" style="height: 64px;">. 
+- *2023.11 - 2024.10* Research Intern, Baichuan <img src="../images/baichuan.jpeg" style="height: 64px;">. 
+- *2022.12 - 2023.10* Research Intern, Baidu <img src="../images/baidu.jpg" style="height: 64px;">. 
+- *2021.7 - 2021.9*, Research Intern, Kuaishou <img src="../images/kuaishou.jpg" style="height: 64px;">. 
 
 # Academic Services
 - PC Member: WWW, SIGKDD, ACL Rolling Review, ICTIR
