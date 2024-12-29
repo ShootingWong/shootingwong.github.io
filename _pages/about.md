@@ -8,51 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me
+- I am currently a PhD candidate at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). 
+- I earned my bachelor's degree (2021) from [Shandong University](https://www.en.sdu.edu.cn).
+- Research interests
+  - Retrieval-augmented generation
+  - Large language models for information retrieval
+  - Session-based document ranking
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# News
+- *2024.12*: We publish a new benchmark OmniEval, which omnidirectionally and automatically evaluate RAG systems in the financial domain! See more [details](https://arxiv.org/abs/2412.13018).
+
+# Publications 
+#### 2025
+- ``COLING 2025`` [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.12566), **Shuting Wang**, Xin Xu, Mang Wang, Weipeng Chen, Yutao Zhu, and Zhicheng Dou.
+- ``KDD 2025`` [Embedding Prior Task-specific Knowledge into Language Models for Context-aware Document Ranking](), **Shuting Wang**, Yutao Zhu, and Zhicheng Dou.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#### 2024
+- ``arXiv 2024`` [OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](https://arxiv.org/abs/2412.13018), **Shuting Wang**, Jiejun Tan, Zhicheng Dou, Ji-Rong Wen
+- ``TKDE`` [PRADA: Pre-train Ranking Models with Diverse Relevance Signals Mined from Search Logs](https://ieeexplore.ieee.org/abstract/document/10807115), **Shuting Wang**, Zhicheng Dou, Kexiang Wang, Dehong Ma, Jun Fan, Daiting Shi, Zhicong Cheng, Simiu Gu, Dawei Yin, Ji-Rong Wen.
+- ``arXiv 2024`` [Omnigen: Unified image generation](https://arxiv.org/abs/2409.11340), Shitao Xiao, Yueze Wang, Junjie Zhou, Huaying Yuan, Xingrun Xing, Ruiran Yan, Chaofan Li, **Shuting Wang**, Tiejun Huang, Zheng Liu
+- ``arXiv 2024`` [LLMs+ Persona-Plug= Personalized LLMs](https://arxiv.org/abs/2409.11901), Jiongnan Liu, Yutao Zhu, **Shuting Wang**, Xiaochi Wei, Erxue Min, Yu Lu, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou
+- ``arXiv2024`` [DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation](https://arxiv.org/abs/2406.05654), **Shuting Wang**, Jiongnan Liu, Shiren Song, Jiehan Cheng, Yuqi Fu, Peidong Guo, Kun Fang, Yutao Zhu, Zhicheng Dou
+- ``TOIS 2024`` [Personalized and Diversified: Ranking Search Results in an Integrated Way](https://dl.acm.org/doi/full/10.1145/3631989) **Shuting Wang**, Zhicheng Dou, Jiongnan Liu, Qiannan Zhu, Ji-Rong Wen
 
-# 📝 Publications 
+#### 2023
+- ``arXiv 2023`` [Large language models for information retrieval: A survey](https://arxiv.org/abs/2308.07107), Yutao Zhu, Huaying Yuan, **Shuting Wang**, Jiongnan Liu, Wenhan Liu, Chenlong Deng, Haonan Chen, Zheng Liu, Zhicheng Dou, Ji-Rong Wen
+- ``WWW 2023`` [Incorporating explicit subtopics in personalized search](https://dl.acm.org/doi/abs/10.1145/3543507.3583488), **Shuting Wang**, Zhicheng Dou, Jing Yao, Yujia Zhou, Ji-Rong Wen
+- ``WSDM 2023`` [Heterogeneous graph-based context-aware document ranking](https://dl.acm.org/doi/abs/10.1145/3539597.3570390), **Shuting Wang**, Zhicheng Dou, Yutao Zhu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Experiences
+- *2023.11 - 2024.10* Research Intern, Baichuan <img src="./images/baichuan.jpg" style="width: 4em;">. 
+- *2022.12 - 2023.10* Research Intern, Baidu <img src="./images/baidu.jpg" style="width: 4em;">. 
+- *2021.7 - 2021.9*, Research Intern, Kuaishou <img src="./images/kuaishou.jpg" style="width: 4em;">. 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Academic Services
+- PC Member: WWW, SIGKDD, ACL Rolling Review, ICTIR
+- Journal Reviewer: TPAMI, KAIS
