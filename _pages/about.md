@@ -19,7 +19,7 @@ redirect_from:
   - Context-aware document ranking
 
 # News
-- *2024.12*: We publish a new benchmark OmniEval, which omnidirectionally and automatically evaluate RAG systems in the financial domain! See more [details](https://arxiv.org/abs/2412.13018).
+- *2024.12*: We publish a new benchmark OmniEval, which omnidirectionally and automatically evaluates RAG systems in the financial domain! See more [details](https://arxiv.org/abs/2412.13018).
 
 # Publications 
 #### 2025
