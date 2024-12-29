@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuting Wang (王淑婷)"
+  name             : "Shuting Wang\n(王淑婷)"
   avatar           : "images/shuting-wang-daily.png"
   bio              : "PhD candidate @ GSAI, RUC"
   location         : "Beijing, China"
