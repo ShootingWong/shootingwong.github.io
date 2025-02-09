@@ -23,7 +23,8 @@ redirect_from:
 
 # Publications 
 #### 2025
-- ``COLING 2025`` [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.12566), **Shuting Wang**, Xin Yu, Mang Wang, Weipeng Chen, Yutao Zhu, and Zhicheng Dou.
+- ``COLING 2025`` [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://aclanthology.org/2025.coling-main.750/), **Shuting Wang**, Xin Yu, Mang Wang, Weipeng Chen, Yutao Zhu, and Zhicheng Dou.
+- ``COLING 2025`` [FineRAG: Fine-grained Retrieval-Augmented Text-to-Image Generation](https://aclanthology.org/2025.coling-main.741.pdf), Huaying Yuan, Ziliang Zhao, **Shuting Wang**, Shitao Xiao, Minheng Ni, Zheng Liu, Zhicheng Dou.
 - ``KDD 2025`` [Embedding Prior Task-specific Knowledge into Language Models for Context-aware Document Ranking](), **Shuting Wang**, Yutao Zhu, and Zhicheng Dou.
 
 
