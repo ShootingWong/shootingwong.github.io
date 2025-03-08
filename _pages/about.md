@@ -11,8 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-- I am currently a PhD candidate at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). 
-  - I am a visiting scholar at  [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/) 
+- I am currently pursuing my PhD at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My supervisor is [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/), and I am expected to graduate in 2026.
+- I am also a visiting scholar at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), where I am working with [Prof. Chenyan Xiong](https://www.cs.cmu.edu/~cx/)
 - I earned my bachelor's degree (2021) from [Shandong University](https://www.en.sdu.edu.cn).
 - Research interests
   - Retrieval-augmented generation
