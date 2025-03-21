@@ -18,6 +18,7 @@ redirect_from:
   - Retrieval-augmented generation
   - Large language models for next generation IR
   - Multi-modal Generation
+  
 # News
 - *2024.12*: We publish a new benchmark OmniEval, which omnidirectionally and automatically evaluates RAG systems in the financial domain! See more [details](https://arxiv.org/abs/2412.13018).
 
