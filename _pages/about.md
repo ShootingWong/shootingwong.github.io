@@ -19,7 +19,8 @@ redirect_from:
   - Large language models for next generation IR
   - Multi-modal Generation
   
-# News
+# Recent Works
+- *2025.4*: We submit a NeurIPS 2025 Competition Proposal: MMU-RAG: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark, which is accomplished through the collaboration between CMU LTI and Amazon AGI teams.
 - *2024.12*: We publish a new benchmark OmniEval, which omnidirectionally and automatically evaluates RAG systems in the financial domain! See more [details](https://arxiv.org/abs/2412.13018).
 
 # Publications 
